@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile! 👨‍💻
+# Welcome Folks! 👨‍💻
 
 Hi, I'm **Mayank Kumar**, a FullStack Software Engineer with over 5 years of experience in building scalable products and delivering innovative solutions. Passionate about tech, fitness, and lifestyle, I enjoy combining creativity with technology to create impactful applications.
 
