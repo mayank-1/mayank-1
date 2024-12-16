@@ -4,7 +4,7 @@ Hi, I'm **Mayank Kumar**, a FullStack Software Engineer with over 5 years of exp
 
 ## 🌟 Featured Projects
 
-### [Trello Clone](https://github.com/mayank-1/Trello-Clone)
+### [Trello Clone](https://github.com/mayank-1/Trello-App)
 A web-based clone of Trello, offering task management functionality through an intuitive drag-and-drop interface.  
 - **Technologies:** JavaScript, HTML, CSS  
 - **Features:** 
