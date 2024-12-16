@@ -58,10 +58,14 @@ A Python script that automates sending daily emails with attachments using **CRO
 ---
 
 ## 🚀 Skills
-- **Languages:** JavaScript, Python, Java  
+- **Languages:** JavaScript, Python
 - **Frameworks:** Angular
 - **Library:** React
-- **Tools:** Docker, Git, Firebase  
+- **Mobile:** Ionic, React Native
+- **State management:** Redux, Redux-thunk, Redux-saga
+- **Testing:** Jest, Cypress
+- **Tools:** Docker, Git, Firebase, AWS API Gateway, AWS Beanstalk, AWS DynamoDB, Alexa Custom Skill Kit
+- **Editior:** Visual Studio Code  
 
 ## 📬 Let's Connect!
 - **YouTube:** [Tech Channel](https://www.youtube.com/channel/way2tech)
