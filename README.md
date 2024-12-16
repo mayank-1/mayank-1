@@ -4,6 +4,28 @@ Hi, I'm **Mayank Kumar**, a FullStack Software Engineer with over 5 years of exp
 
 ## 🌟 Featured Projects
 
+### [Trello Clone](https://github.com/mayank-1/Trello-Clone)
+A web-based clone of Trello, offering task management functionality through an intuitive drag-and-drop interface.  
+- **Technologies:** JavaScript, HTML, CSS  
+- **Features:** 
+  - Create, edit, and delete task cards
+  - Drag-and-drop functionality for task organization
+  - Simple and responsive design  
+- **How to Use:** Clone the repository, open `index.html` in your browser, and start organizing your tasks.
+
+---
+
+### [Weather App](https://github.com/mayank-1/Weather-App)
+A JavaScript-based application that fetches real-time weather data using an API and displays it in an interactive UI.  
+- **Technologies:** JavaScript, OpenWeatherMap API, CSS  
+- **Features:** 
+  - Search for current weather by city
+  - Dynamic weather updates
+  - Clean and user-friendly design  
+- **How to Run:** Follow the instructions in the repository to set up your API key and view the app in action.
+
+---
+
 ### [TrackBack](https://github.com/mayank-1/TrackBack)
 A fitness time monitoring app built with **Ionic 4** and **Angular**. It helps users track their total workout duration.  
 - **Technologies:** Ionic, Angular  
