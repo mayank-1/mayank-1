@@ -1,6 +1,6 @@
 # Welcome Folks! 👨‍💻
 
-Hi, I'm **Mayank Kumar**, a Software Engineer with 4 years 10 months of experience in building scalable products and delivering innovative solutions in both Web & Mobile. Passionate about tech, fitness, and lifestyle, I enjoy combining creativity with technology to create impactful applications.
+Hi, I'm **Mayank Kumar**, a Software Engineer with nearly 5 years of experience in building scalable products and delivering innovative solutions in both Web & Mobile. Passionate about tech, fitness, and lifestyle, I enjoy combining creativity with technology to create impactful applications.
 
 ## 🌟 Featured Projects
 
